@@ -9,7 +9,7 @@ twitter: @LizHughes21
 github: elizhughes
 ORCID: https://orcid.org/0000_0003_1573_9062
 scholar: 
-image: /assets/images/team/default-member.png
+image: /assets/images/team/E Hughes.jpg
 alum: false
 ---
 
